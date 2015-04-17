@@ -1,0 +1,12 @@
+{
+    "name": "menmo/omniture-sitecatalyst",
+    "description": "Add Omniture - SiteCatalyst to your blog with settings controlled in the admin section.",
+    "keywords": ["Omnitur", "Sitecatalyst"],
+    "type": "wordpress-plugin",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/menmo/wp-omniture-sitecatalyst"
+        }
+    ]
+}
